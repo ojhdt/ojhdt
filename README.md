@@ -11,9 +11,15 @@
 - 📇 一名沉浸扁平设计的 PowerPoint 水客
 - 😄 一位坚定不移的 Google 拥护者（谷歌大法好！）
 
-[![Ojhdt's github stats](https://github-readme-stats.vercel.app/api?username=ojhdt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+#### Contact me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojhdt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 📧 [E-mail](mailto:ojhdtmail@gmail.com)
+- 💬 [Telegram](https://telegram.me/ojhdt)
+
+#### Stats
+
+<a href=""><img src="https://github-readme-stats.vercel.app/api?username=ojhdt&show_icons=true" height="180px"></a> 
+<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojhdt&layout=compact" height="180px"></a>
 
 <!--
 **ojhdt/ojhdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
